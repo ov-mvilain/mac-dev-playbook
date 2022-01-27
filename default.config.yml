@@ -114,6 +114,19 @@ configure_sublime: false
 sublime_base_path: '~/Library/Application Support/Sublime Text'
 sublime_config_path: "Packages/User"
 sublime_package_control:
+  - "Alignment"
+  - "Ansible"
+  - "AutoFileName"
+  - "BracketHighlighter"
+  - "ChangeQuotes"
+  - "Git"?
+  - "GitGutter"
+  - "INI"
+  - "JSON"?
+  - "Markdown Extended"
+  - "MarkdownPreview"
+  - "Puppet"
+
   - "DocBlockr"
   - "Dockerfile Syntax Highlighting"
   - "FileDiffs"
